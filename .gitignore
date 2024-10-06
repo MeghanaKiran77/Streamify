@@ -1,0 +1,5 @@
+# Ignore .mov video files
+server/uploads
+
+# Ignore .mov video files
+.env
