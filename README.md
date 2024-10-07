@@ -64,7 +64,7 @@
 
 ---
 
-## Installation Instructions
+## 🚀 Quick start - Installation Instructions
 
 ### Clone the Repository:
 ```bash
@@ -108,7 +108,7 @@ cd Streamify
 
 ---
 
-## Project Structure
+## ✍🏻 Project Structure
 
 ```bash
 .
@@ -133,7 +133,7 @@ cd Streamify
 
 ---
 
-## Explanation of the Project
+## 🗣️ Explanation of the Project
 
 ### client/
 - **Purpose**: Frontend code of the application.
@@ -161,7 +161,7 @@ cd Streamify
 
 ---
 
-## Future Enhancements
+## ✨ Future Enhancements
 
 - **Video Categories**: Users can filter videos by categories like education, entertainment, etc.
 - **Live Streaming**: Allow users to live-stream their content.
