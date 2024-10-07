@@ -1,9 +1,9 @@
 
 ---
 
-# Streamify - Video Streaming Platform
+# 📽️ Streamify - Video Streaming Platform
 
-## Table of Contents
+##  👉🏻 Table of Contents
 - [Introduction](#introduction)
 - [Design of the Solution](#design-of-the-solution)
 - [Hardware and Software Requirements](#hardware-and-software-requirements)
@@ -14,13 +14,13 @@
 
 ---
 
-## Introduction
+## 👉🏻 Introduction
 
 **Streamify** is a video streaming platform developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). The project focuses on building a scalable and functional video streaming site similar to popular platforms, with features like user authentication, video management, subscriptions, comments, likes, and more.
 
 ---
 
-## Design of the Solution
+## 💻 Design of the Solution
 
 ### User Authentication
 - New users can **register** using a username, email ID, and password.
@@ -45,7 +45,7 @@
 
 ---
 
-## Hardware and Software Requirements
+## 👩🏻‍💻 Hardware and Software Requirements
 
 ### Hardware:
 - **Computer/Laptop**: For development and testing.
